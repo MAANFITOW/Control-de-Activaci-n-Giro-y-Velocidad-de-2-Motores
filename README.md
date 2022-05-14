@@ -1,6 +1,6 @@
 # Control-de-Activacion-Giro-y-Velocidad-de-2-Motores
 Este es el código empleado para la resolución el examen parcial de la materia Sistemas Embebidos 2.
-````
+````cpp
 #include <Arduino.h>
 // NOTA: Todos los #define referencian en numero al pin utilizado
 // PLACA: ESP32 Dev Kit V1
@@ -142,4 +142,3 @@ void loop() {
 }
 
 ````
-###END
