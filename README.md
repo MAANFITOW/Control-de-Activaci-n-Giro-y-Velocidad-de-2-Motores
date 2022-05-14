@@ -1,5 +1,8 @@
 # Control-de-Activacion-Giro-y-Velocidad-de-2-Motores
 Este es el código empleado para la resolución el examen parcial de la materia Sistemas Embebidos 2.
+
+![](https://i.ibb.co/MNQJdRk/Examen.jpg)
+
 ````cpp
 #include <Arduino.h>
 // NOTA: Todos los #define referencian en numero al pin utilizado
